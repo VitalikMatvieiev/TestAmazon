@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vitalijmatveev/RiderProjects/TestAmazon/TestAmazon/TestAmazon.csproj": {}
+  },
+  "projects": {
+    "/Users/vitalijmatveev/RiderProjects/TestAmazon/TestAmazon/TestAmazon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vitalijmatveev/RiderProjects/TestAmazon/TestAmazon/TestAmazon.csproj",
+        "projectName": "TestAmazon",
+        "projectPath": "/Users/vitalijmatveev/RiderProjects/TestAmazon/TestAmazon/TestAmazon.csproj",
+        "packagesPath": "/Users/vitalijmatveev/.nuget/packages/",
+        "outputPath": "/Users/vitalijmatveev/RiderProjects/TestAmazon/TestAmazon/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vitalijmatveev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.7.106.44, )"
+            },
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.103.13, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

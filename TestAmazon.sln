@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAmazon", "TestAmazon\TestAmazon.csproj", "{2F51A6C7-94A7-480B-8F50-5CED2EFA98CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F51A6C7-94A7-480B-8F50-5CED2EFA98CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F51A6C7-94A7-480B-8F50-5CED2EFA98CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F51A6C7-94A7-480B-8F50-5CED2EFA98CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F51A6C7-94A7-480B-8F50-5CED2EFA98CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

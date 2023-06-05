@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQvit3mw4WPxN1bcOpw3kn/gCarnzhLSm39iC5gS0Kn/cO8zq7PbzZjSZMViu7Q9pwGaVgEmPyaSZU0pyIhlCw==",
+  "success": true,
+  "projectFilePath": "/Users/vitalijmatveev/RiderProjects/TestAmazon/TestAmazon/TestAmazon.csproj",
+  "expectedPackageFiles": [
+    "/Users/vitalijmatveev/.nuget/packages/awssdk.core/3.7.106.44/awssdk.core.3.7.106.44.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/awssdk.dynamodbv2/3.7.103.13/awssdk.dynamodbv2.3.7.103.13.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/awssdk.extensions.netcore.setup/3.7.7/awssdk.extensions.netcore.setup.3.7.7.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/microsoft.extensions.configuration.abstractions/2.0.0/microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.0.0/microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/microsoft.extensions.primitives/2.0.0/microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/vitalijmatveev/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
